@@ -133,7 +133,7 @@ Software Engineer
 
 Portfolio: https://portfolio.g0dr.pt
 
-LinkedIn: www.linkedin.com/in/rafael-saraiva-517bb6418
+LinkedIn: https://www.linkedin.com/in/rafael-saraiva-517bb6418
 
 **Gustavo Silva**
 
